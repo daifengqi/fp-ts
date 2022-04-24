@@ -1,3 +1,3 @@
-import { run } from "./test/test4-compose";
+import { run } from "./test/test5-of";
 
 run();
